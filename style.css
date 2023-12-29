@@ -4,4 +4,9 @@
 
 #title {
     color: #f15025;
+    font-size: 35px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-left: 10px;
+
 }
